@@ -1,8 +1,8 @@
 ### Ahla
 **I am Hazem Bouzaiene**, a software guy from Tunisia
 
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=hazembenbz.co&url=https%3A%2F%2Fhazembenbz.co)](hazembenbz.co)
-[![](https://img.shields.io/badge/-@HazemBZ-%23181717?style=flat-square&logo=github)](https://github.com/HazemBZ)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=hazembenbz.co&url=https%3A%2F%2Fhazembenbz.co)](https://hazembenbz.co)
+[![](https://img.shields.io/badge/-@HazemBZ-%23181717?style=flat-square&logo=github)](https://github.com/HazemBZ?tab=repositories)
 [![](https://img.shields.io/badge/-@HazemBZ-%231DA1F2?style=flat-square&logo=spotify&color=black&url=https%3A%2F%2Fopen.spotify.com/user/j35r279t7w4u3029jrw8m3c94/)](https://open.spotify.com/user/j35r279t7w4u3029jrw8m3c94)
 [![](https://img.shields.io/badge/-@HazemBZ-%23181717?style=flat-square&logo=bandlab&color=F24534)](https://bandlab.com/hazembz)
 
