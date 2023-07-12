@@ -33,5 +33,9 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 
 ## Stats
+<details>
+<summary>My GitHub Stats</summary>
 
 ![HazemBZ's github stats](https://github-readme-stats.vercel.app/api?username=HazemBZ&show_icons=true&theme=dracula)
+
+</details>
