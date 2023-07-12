@@ -22,9 +22,9 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
 
-![python](https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/python.svg)
+![python](https://img.shields.io/badge/-Python-%23333333?style=flat-square&logo=python)
 ![Django](https://img.shields.io/badge/-Django-%23333333?style=flat-square&logo=django&color=092E20)
-![nodejs](https://img.shields.io/badge/-Nodejs-%23333333?style=flat-square&logo=node.js)
+![nodejs](https://img.shields.io/badge/-NodeJS-%23333333?style=flat-square&logo=node.js)
 ![java](https://img.shields.io/badge/-Java-%23333333?style=flat-square&logo=java)
 
 ![Archlinux](https://img.shields.io/badge/-Archlinux-%23333333?style=flat-square&logo=archlinux&logoColor=%230F94D2)
