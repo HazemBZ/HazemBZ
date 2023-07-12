@@ -1,16 +1,33 @@
-### Hi there 👋
+### Ahla
+**I am Hazem Bouzaiene**, a software guy from Tunisia
 
-<!--
-**HazemBZ/HazemBZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=hazembenbz.co&url=https%3A%2F%2Fhazembenbz.co)](hazembenbz.co)
+[![](https://img.shields.io/badge/-@HazemBZ-%23181717?style=flat-square&logo=github)](https://github.com/HazemBZ)
+[![](https://img.shields.io/badge/-@HazemBZ-%231DA1F2?style=flat-square&logo=spotify&color=black&url=https%3A%2F%2Fopen.spotify.com/user/j35r279t7w4u3029jrw8m3c94/)](https://open.spotify.com/user/j35r279t7w4u3029jrw8m3c94)
+[![](https://img.shields.io/badge/-@HazemBZ-%23181717?style=flat-square&logo=bandlab&color=F24534)](https://bandlab.com/hazembz)
 
-Here are some ideas to get you started:
+ - Usually I [make](https://github.com/HazemBZ?tab=repositories&q=&type=public&language=&sort=) things with code
+ - Sometimes I [compose](https://www.bandlab.com/hazembz) music
+- 🔭 I’m currently working on bettering myself as a human being
+- 🌱 I’m currently learning Cloud, Self-improvement and many things in between
+- 🤔 I’m looking for opportunities to accelerate my growth as a software dev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+
+
+![python](https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/python.svg)
+![Django](https://img.shields.io/badge/-Django-%23333333?style=flat-square&logo=django&color=092E20)
+![nodejs](https://img.shields.io/badge/-Nodejs-%23333333?style=flat-square&logo=node.js)
+![java](https://img.shields.io/badge/-Java-%23333333?style=flat-square&logo=java)
+
+![Archlinux](https://img.shields.io/badge/-Archlinux-%23333333?style=flat-square&logo=archlinux&logoColor=%230F94D2)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
