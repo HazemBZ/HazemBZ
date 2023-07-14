@@ -39,3 +39,11 @@
 ![HazemBZ's github stats](https://github-readme-stats.vercel.app/api?username=HazemBZ&show_icons=true&theme=dracula)
 
 </details>
+
+<details>
+    <summary>My coding activity</summary>
+    <img
+  src="https://github.com/HazemBZ/HazemBZ/blob/master/images/stat.svg"
+  alt="Hazem Wakatime Activity"
+/>
+</details>
