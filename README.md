@@ -43,7 +43,7 @@
 <details>
     <summary>My coding activity</summary>
     <img
-  src="https://github.com/HazemBZ/HazemBZ/blob/master/images/stat.svg"
+  src="https://github.com/HazemBZ/HazemBZ/blob/main/images/stat.svg"
   alt="Hazem Wakatime Activity"
 />
 </details>
