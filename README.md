@@ -6,12 +6,6 @@
 [![](https://img.shields.io/badge/-@HazemBZ-%231DA1F2?style=flat-square&logo=spotify&color=black&url=https%3A%2F%2Fopen.spotify.com/user/j35r279t7w4u3029jrw8m3c94/)](https://open.spotify.com/user/j35r279t7w4u3029jrw8m3c94)
 [![](https://img.shields.io/badge/-@HazemBZ-%23181717?style=flat-square&logo=bandlab&color=F24534)](https://bandlab.com/hazembz)
 
- - Usually I [make](https://github.com/HazemBZ?tab=repositories&q=&type=public&language=&sort=) things with code
- - Sometimes I [compose](https://www.bandlab.com/hazembz) music
-- 🔭 I’m currently working on bettering myself as a human being
-- 🌱 I’m currently learning Cloud, Self-improvement and many things in between
-- 🤔 I’m looking for opportunities to accelerate my growth as a software dev
-
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
