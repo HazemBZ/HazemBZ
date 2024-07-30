@@ -19,7 +19,6 @@
 ![python](https://img.shields.io/badge/-Python-%23333333?style=flat-square&logo=python)
 ![Django](https://img.shields.io/badge/-Django-%23333333?style=flat-square&logo=django&color=092E20)
 ![nodejs](https://img.shields.io/badge/-NodeJS-%23333333?style=flat-square&logo=node.js)
-![java](https://img.shields.io/badge/-Java-%23333333?style=flat-square&logo=java)
 
 ![Archlinux](https://img.shields.io/badge/-Archlinux-%23333333?style=flat-square&logo=archlinux&logoColor=%230F94D2)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
