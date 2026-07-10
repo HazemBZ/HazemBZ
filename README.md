@@ -1,42 +1,61 @@
-### Ahla
-**I am Hazem Bouzaiene**, a software guy from Tunisia
+## Ahla, I'm Hazem Bouzaiene
 
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=hazembz.xyz&url=https%3A%2F%2Fhazembz.xyz)](https://hazembz.xyz)
-[![](https://img.shields.io/badge/-@HazemBZ-%23181717?style=flat-square&logo=github)](https://github.com/HazemBZ?tab=repositories)
-[![](https://img.shields.io/badge/-@HazemBZ-%231DA1F2?style=flat-square&logo=spotify&color=black&url=https%3A%2F%2Fopen.spotify.com/user/j35r279t7w4u3029jrw8m3c94/)](https://open.spotify.com/user/j35r279t7w4u3029jrw8m3c94)
-[![](https://img.shields.io/badge/-@HazemBZ-%23181717?style=flat-square&logo=bandlab&color=F24534)](https://bandlab.com/hazembz)
+Software developer in Tunisia building Python and TypeScript tools for AI workflows, document search, automation, and developer productivity.
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+I like turning messy local workflows into useful software: searchable dashboards, PDF tooling, scraping systems, and small tools that make repeated work easier to reason about.
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+[![Website](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=hazembz.xyz&url=https%3A%2F%2Fhazembz.xyz)](https://hazembz.xyz)
+[![GitHub](https://img.shields.io/badge/-@HazemBZ-%23181717?style=flat-square&logo=github)](https://github.com/HazemBZ?tab=repositories)
+[![Email](https://img.shields.io/badge/-hazembenbz%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:hazembenbz@gmail.com)
 
+## Featured work
 
-![python](https://img.shields.io/badge/-Python-%23333333?style=flat-square&logo=python)
-![Django](https://img.shields.io/badge/-Django-%23333333?style=flat-square&logo=django&color=092E20)
-![nodejs](https://img.shields.io/badge/-NodeJS-%23333333?style=flat-square&logo=node.js)
+| Project | What it shows |
+| --- | --- |
+| [sessions-sage](https://github.com/HazemBZ/sessions-sage) | Local AI dashboard for OpenCode sessions: FastAPI, SQLite, HTMX, Ollama, searchable timelines, and daily digests. |
+| [pdf-fuzz](https://github.com/HazemBZ/pdf-fuzz) | Local-first PDF search app with React, Django, Elasticsearch, Celery, RabbitMQ, Redis, and Docker Compose. |
+| [pdf-mcp](https://github.com/HazemBZ/pdf-mcp) | MCP server for PDF extraction, metadata, layout-aware parsing, search, and OCR through JSON-RPC. |
+| [dayflow](https://github.com/HazemBZ/dayflow) | Personal planning app with Next.js, React, Tailwind CSS, Drizzle, and local SQLite. |
+| [mlh-demo](https://github.com/HazemBZ/mlh-demo) | Hybrid web automation and scraping system using FastAPI, Celery, Redis, Selenium, and containerized workers. |
+| [three-library](https://github.com/HazemBZ/three-library) | React Three Fiber sandbox for WebGL, audio-reactive scenes, GLSL shaders, GLTF models, and interactive experiments. |
 
-![Archlinux](https://img.shields.io/badge/-Archlinux-%23333333?style=flat-square&logo=archlinux&logoColor=%230F94D2)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+## Stack
 
-## Stats
+**Languages:** Python, TypeScript, JavaScript, Shell
+
+**Backend and automation:** FastAPI, Django, Celery, Redis, RabbitMQ, Selenium, Docker
+
+**Frontend and interaction:** React, Next.js, Vite, Tailwind CSS, HTMX, React Three Fiber, Three.js
+
+**Search, documents, and AI tooling:** Elasticsearch, PyMuPDF, OCR workflows, MCP, Ollama
+
+**Databases and tools:** SQLite, Drizzle, Git, GitHub Actions, Linux
+
+## Current focus
+
+- Building local AI and developer-productivity tools that keep data on the user's machine.
+- Improving document workflows around PDF extraction, search, OCR, and retrieval.
+- Exploring practical automation systems for repetitive browser and data-entry work.
+
+## Contact
+
+- Website: [hazembz.xyz](https://hazembz.xyz)
+- Email: [hazembenbz@gmail.com](mailto:hazembenbz@gmail.com)
+- GitHub: [@HazemBZ](https://github.com/HazemBZ)
+
 <details>
-<summary>My GitHub Stats</summary>
+<summary>GitHub stats</summary>
 
-![HazemBZ's github stats](https://github-readme-stats.vercel.app/api?username=HazemBZ&show_icons=true&theme=dracula)
+![HazemBZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=HazemBZ&show_icons=true&theme=dracula)
 
 </details>
 
 <details>
-    <summary>My coding activity</summary>
-    <img
+<summary>Coding activity</summary>
+
+<img
   src="https://github.com/HazemBZ/HazemBZ/blob/main/images/stat.svg"
-  alt="Hazem Wakatime Activity"
+  alt="Hazem WakaTime activity"
 />
+
 </details>
